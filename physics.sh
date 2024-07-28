@@ -42,6 +42,7 @@ else
 					echo "To start running the mod, download and install the pojavlauncher app from the offical github or the google play store."
           echo "it Works on your pojavlauncher"
 					echo "Thank you."
+     echo "you can find it inside of termux's root directory"
 				fi
 				cd ..
 				rm -rf classes.jar mod patch > /dev/null
